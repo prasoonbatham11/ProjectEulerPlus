@@ -1,5 +1,13 @@
 import java.util.*;
 
+/*
+*   To run HackerRank PE+ solution run:
+*   javac Euler001.java && java Euler001
+*
+*   To run projecteuler.net solution run:
+*   javac Euler001.java && java Euler001 1
+*/
+
 class Euler001 {
 
     public static void main(String[] args) {
