@@ -37,7 +37,7 @@ class Euler004 {
 
     public static void solvePE() {
         precompute();
-        System.out.println(solve(1010100));
+        System.out.println(solve(1000000));
     }
 
     public static void precompute() {
