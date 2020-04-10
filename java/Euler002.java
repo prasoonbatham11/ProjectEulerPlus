@@ -2,10 +2,10 @@ import java.util.*;
 
 /*
 *   To run HackerRank PE+ solution run:
-*   javac Euler001.java && java Euler001
+*   javac Euler002.java && java Euler001
 *
 *   To run projecteuler.net solution run:
-*   javac Euler001.java && java Euler001 1
+*   javac Euler002.java && java Euler001 1
 */
 
 class Euler002 {
